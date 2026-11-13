@@ -48,7 +48,7 @@ Python · Pandas · NumPy · Matplotlib · Pytest
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ecommerce-sales-analytics.git
+git clone https://github.com/mostafeez/ecommerce-sales-analytics.git
 cd ecommerce-sales-analytics
 ```
 
@@ -113,6 +113,4 @@ After running the project, the `outputs/` folder contains:
 
 The included data is generated synthetically for portfolio demonstration and reproducibility. It is not real customer or business data. Findings from this sample should not be presented as evidence about an actual retailer.
 
-## License
 
-MIT.
